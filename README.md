@@ -2,7 +2,9 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa871&label=Profile views&color=0e75b6&style=flat" alt="alaa871" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alaa871&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 - 🔭 I'm currently working on ** All in one App for bypassing activation lock**
 
