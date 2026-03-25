@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **C++ objective c c#**
 
-- 📫 How to reach me **3ala2.wolverine@gmail.com**
+- 📫 How to reach me **t.me/Stark01x**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
